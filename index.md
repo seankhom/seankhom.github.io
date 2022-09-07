@@ -25,9 +25,9 @@ Year | Name | Description
 2021 | Inventory Management Tool | Developed Tool for Elkhart Brass to manage inventory from different Facilities
 2020| Robotic Hand | Developed robotic hand that mirrored controller's hand movements and won Air Force Office of Research Award
 
-<br>*psst for more info click on portfolio!* <br>
----
+*psst for more info click on portfolio!*
 
+---
 ## Things I Like
 
 - Food
