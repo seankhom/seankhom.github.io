@@ -18,7 +18,7 @@ I am planning on pursuing a masters in either Computer Science or in Astronautic
 1. None Yet!
 
 ## Projects
-*psst for more info click on portfolio!*
+*psst for more info click on portfolio!* <br>
 
 Year | Name | Description
 -----|-------|--------
