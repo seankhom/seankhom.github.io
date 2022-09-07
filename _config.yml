@@ -16,8 +16,10 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: ""
+ - name: "Portfolio"
+   link: "portfolio"
+ - name: "Coursework"
+   link: "courses"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
