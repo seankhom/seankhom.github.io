@@ -29,8 +29,9 @@ Year | Name | Description
 
 ## Things I Like
 
-1. Food
-2. Spider-Man
-3. Re:Zero
+- Food
+- Spider-Man
+- Re:Zero
+- Learning random skills
 
 
