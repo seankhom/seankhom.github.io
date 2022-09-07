@@ -18,14 +18,13 @@ I am planning on pursuing a masters in either Computer Science or in Astronautic
 1. None Yet!
 
 ## Projects
-*psst for more info click on portfolio!* <br>
-
 Year | Name | Description
 -----|-------|--------
 2022 | ASTRA | Model Rocket that enables active controls
 2021 | Inventory Management Tool | Developed Tool for Elkhart Brass to manage inventory from different Facilities
 2020| Robotic Hand | Developed robotic hand that mirrored controller's hand movements and won Air Force Office of Research Award
 
+*psst for more info click on portfolio!* <br>
 ---
 
 ## Things I Like
