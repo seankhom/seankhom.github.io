@@ -19,7 +19,7 @@ nav:
  - name: "Portfolio"
    link: "portfolio"
  - name: "Coursework"
-   link: "courses"
+   link: "coursework"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
