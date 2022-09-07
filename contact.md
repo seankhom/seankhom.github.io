@@ -21,4 +21,4 @@ is_contact: true
 
 ## Socials
 
-1. [Twitter](#https://twitter.com/SeanKhom)
+1. [Twitter](https://twitter.com/SeanKhom)
