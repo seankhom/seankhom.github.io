@@ -21,9 +21,9 @@ I am planning on pursuing a masters in either Computer Science or in Astronautic
 
 Year | Name | Description
 -----|-------|--------
-2022 | ASTRA | Model Rocket that Enables active controls
+2022 | ASTRA | Model Rocket that enables active controls
 2021 | Inventory Management Tool | Developed Tool for Elkhart Brass to manage inventory from different Facilities
-2020| Robotic Hand | Won Airforce Office of Research Award
+2020| Robotic Hand | Developed robotic hand that mirrored controller's hand movements and won Air Force Office of Research Award
 
 ---
 
