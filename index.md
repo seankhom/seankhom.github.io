@@ -19,6 +19,7 @@ I am planning on pursuing a masters in either Computer Science or in Astronautic
 
 ## Projects
 *psst for more info click on portfolio!*
+
 Year | Name | Description
 -----|-------|--------
 2022 | ASTRA | Model Rocket that enables active controls
