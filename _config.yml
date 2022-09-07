@@ -1,5 +1,5 @@
-title: Researcher
-url: "seankhom.github.io"
+title: Sean Khomphengchan
+url: "https://seankhom.github.io"
 baseurl: ""
 remote_theme: ankitsultana/researcher@gem
 markdown: kramdown
@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/seankhom"
+footer_text: "Template from Ankit Sultana"
 
 sass:
     style: compressed

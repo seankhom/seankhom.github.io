@@ -3,9 +3,9 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [seankhom@gmail.com](mailto:seankhom@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+1 574-327-9116](tel:+1-5743279116)
 
 ---
 
