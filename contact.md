@@ -11,16 +11,14 @@ is_contact: true
 
 ## Mailing Address
 
-> 221B, Baker Street
+> 2176 Lucia Lane
 >
-> London
+> West Lafayette, Indiana
 >
-> United Kingdom
+> United States of Americ
 
 ---
 
-## Social
+## Socials
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Twitter](#https://twitter.com/SeanKhom)
