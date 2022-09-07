@@ -21,4 +21,6 @@ is_contact: true
 
 ## Socials
 
-1. [Twitter](https://twitter.com/SeanKhom)
+1. [LinkedIn](https://www.linkedin.com/in/seankhom/)
+2. [GitHub](https://github.com/seankhom)
+2. [Twitter](https://twitter.com/SeanKhom)
