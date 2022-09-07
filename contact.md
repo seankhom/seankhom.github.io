@@ -15,7 +15,7 @@ is_contact: true
 >
 > West Lafayette, Indiana
 >
-> United States of Americ
+> United States of America
 
 ---
 
