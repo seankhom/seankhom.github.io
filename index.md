@@ -11,7 +11,8 @@ Welcome to my site!
 
 ## Professional Interest
 
-I am planning on pursuing a masters in either Computer Science or in Astronautics after I graduate from undergrad around December 2023. I am interested in the controls and simulation within the Aerospace Industry.
+I plan to pursue a masters in either Astronautical Engineering or Computer Science after graduating from undergrad in Deceber 2023.
+I have a lot of interest in the fields of control systems and Astrodynamics, currently my specializations are Dynamics and Control which I enjoy so far.
 
 ## Publications
 
