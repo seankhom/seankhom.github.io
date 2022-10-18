@@ -13,7 +13,7 @@ Welcome to my site!
 
 I plan to pursue a masters in either Astronautical Engineering or Computer Science after graduating from undergrad in Deceber 2023.
 I hope to one day work in the field of Control Systems and the correlating Dynamics specifcally space related applications.
-My specializations so far are in Astrodynamics and Conrol Systems.
+My specializations so far are in Astrodynamics and Control Systems.
 
 ## Publications
 
