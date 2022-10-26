@@ -19,11 +19,20 @@ My specializations so far are in Astrodynamics and Control Systems.
 
 1. None Yet!
 
+## Teaching
+I have been serving as an Undergraduate Teaching assistant for the past 3 semesters.
+I have worked on the followng corses:
+
+* ENGR 131: Transforming Ideas to Innovation I (Fall '21)
+* ENGR 132: Transforming Ideas to Innovation II (Spring '22)
+* ENGR 133: Transforming Ideas to Innovation, EPICS (Fall '22)
+
+
 ## Projects
 
 Year | Name | Description
 -----|-------|--------
-2022 | ASTRA | Model Rocket that enables active controls
+2022 | ASTRA | Model Rocket that enables active controls utilizes Kalman Filtering
 2021 | Inventory Management Tool | Developed Tool for Elkhart Brass to manage inventory from different Facilities
 2020| Robotic Hand | Developed robotic hand that mirrored controller's hand movements and won Air Force Office of Research Award
 
