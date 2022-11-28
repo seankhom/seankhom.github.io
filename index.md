@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="me2.jpg">
+<img class="section" src="me2.jpg">
 
 Hello! I am currently a student in my junior year studying Aeronautical and Astronautical Engineering at Purdue University!
 Welcome to my site!
