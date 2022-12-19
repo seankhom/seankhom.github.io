@@ -1,6 +1,14 @@
 # Courses
 
-## Fall 2022(Current)
+## Spring 2023
+- AAE 590 -  Multi Agent Autonomy
+- AAE 590  - Applied Controls in Astronautics
+- AAE 590 -  Spacecraft Attitude Dynamics
+- AAE 36401- Control Systems Lab
+- AAE 33401- Aerodynamics Lab
+
+
+## Fall 2022
 - AAE 575- Intro to Satellite Navigation and Positioning
 - AAE 339- Propulsion
 - AAE 364- Control Systems

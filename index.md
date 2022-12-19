@@ -1,12 +1,12 @@
 ---
 layout: default
 ---
-
+%
 ## About Me
 
 <img class="profile-picture" src="me2.jpg">
 
-Hello! I am currently a student in my junior year studying Aeronautical and Astronautical Engineering at Purdue University!
+Hello my name is Sean Khomphengchan! I am currently a student in my junior year studying Aeronautical and Astronautical Engineering at Purdue University!
 Welcome to my site!
 
 ## Professional Interest
@@ -39,11 +39,11 @@ Year | Name | Description
 *psst for more info click on portfolio!*
 
 ---
-## Things I Like
+## Personal Interest
 
-- Food
+- Film and Television
 - Spider-Man
-- Re:Zero
-- Learning random skills
+- Reading
+- Food & Cooking
 
 
