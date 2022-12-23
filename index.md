@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-%
 ## About Me
 
 <img class="profile-picture" src="me2.jpg">
@@ -27,11 +26,14 @@ I have worked on the followng corses:
 * ENGR 132: Transforming Ideas to Innovation II (Spring '22)
 * ENGR 133: Transforming Ideas to Innovation, EPICS (Fall '22)
 
+In Spring 2023, I will be serving as a TA for the new FYE Computer Labs and will also be assisting in curriculum development for 
+the first year engineering courses.
 
 ## Projects
 
 Year | Name | Description
 -----|-------|--------
+2022 |GNSS Signal Processing | Semester Long project involving analysis of GNSS signal processing techniques for error correction
 2022 | ASTRA | Model Rocket that enables active controls utilizes Kalman Filtering
 2021 | Inventory Management Tool | Developed Tool for Elkhart Brass to manage inventory from different Facilities
 2020| Robotic Hand | Developed robotic hand that mirrored controller's hand movements and won Air Force Office of Research Award
