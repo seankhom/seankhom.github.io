@@ -5,14 +5,15 @@ layout: default
 
 <img class="profile-picture" src="me2.jpg">
 
-Hello my name is Sean Khomphengchan! I am currently a student in my junior year studying Aeronautical and Astronautical Engineering at Purdue University!
+Hello my name is Sean Khomphengchan! I am currently a student in my senior year studying Aeronautical and Astronautical Engineering at Purdue University!
 Welcome to my site!
 
 ## Professional Interest
+Currently I am looking for opportunities to explore GNC or software oriented positions within the space sector
+where I can further refine my abilities as I had specialized in Astrodynamics and Controls. Academically,
+I am interested in exploring the use of robotics for space missions and other space related applications
+and thus I am considering pursuing my Master's at somempoint durring my career.
 
-I plan to pursue a masters in either Astronautical Engineering or Computer Science after graduating from undergrad in Deceber 2023.
-I hope to one day work in the field of Control Systems and the correlating Dynamics specifcally space related applications.
-My specializations so far are in Astrodynamics and Control Systems.
 
 ## Publications
 
@@ -33,6 +34,7 @@ the first year engineering courses.
 
 Year | Name | Description
 -----|-------|--------
+2023 |Multi-Agent Valorant Simulator| Use Multi-Agent modeling and simulation for use case of predicting outcomes within the tactical shooter Valorant
 2022 |GNSS Signal Processing | Semester Long project involving analysis of GNSS signal processing techniques for error correction
 2022 | ASTRA | Model Rocket that enables active controls utilizes Kalman Filtering
 2021 | Inventory Management Tool | Developed Tool for Elkhart Brass to manage inventory from different Facilities
