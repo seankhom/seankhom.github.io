@@ -1,5 +1,10 @@
 # Courses
 
+## Fall 2023
+- AAE 590 -  Spaceflight Operations
+- AAE 561  - Convex Optimization
+- AAE 450 -  Spacecraft Design  
+
 ## Spring 2023
 - AAE 590 -  Multi Agent Autonomy
 - AAE 590  - Applied Controls in Astronautics
