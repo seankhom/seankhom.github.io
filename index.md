@@ -5,14 +5,14 @@ layout: default
 
 <img class="profile-picture" src="me2.jpg">
 
-Hello my name is Sean Khomphengchan! I am currently a student in my senior year studying Aeronautical and Astronautical Engineering at Purdue University!
+Hello my name is Sean Khomphengchan! I recently graduated from Purdue University with a degree in Aeronautical and Astronautical Engineering!
 Welcome to my site!
 
 ## Professional Interest
 Currently I am looking for opportunities to explore GNC or software oriented positions within the space sector
-where I can further refine my abilities as I had specialized in Astrodynamics and Controls. Academically,
+where I can further refine my abilities as I have specialized in Astrodynamics and Controls. Academically,
 I am interested in exploring the use of robotics for space missions and other space related applications
-and thus I am considering pursuing my Master's at somempoint durring my career.
+and thus I am considering pursuing my Master's at some point during my career.
 
 
 ## Publications
@@ -21,14 +21,12 @@ and thus I am considering pursuing my Master's at somempoint durring my career.
 
 ## Teaching
 I have been serving as an Undergraduate Teaching assistant for the past 3 semesters.
-I have worked on the followng corses:
+I have worked on the following courses:
 
 * ENGR 131: Transforming Ideas to Innovation I (Fall '21)
 * ENGR 132: Transforming Ideas to Innovation II (Spring '22)
 * ENGR 133: Transforming Ideas to Innovation, EPICS (Fall '22)
-
-In Spring 2023, I will be serving as a TA for the new FYE Computer Labs and will also be assisting in curriculum development for 
-the first year engineering courses.
+* FYE Computer Lab (Spring '23)
 
 ## Projects
 
