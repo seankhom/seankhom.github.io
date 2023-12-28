@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [skhomphe@alumni.purdue.edu](mailto:skhomphe@lumni.purdue.edu)
+* Email: [skhomphe@alumni.purdue.edu](mailto:skhomphe@alumni.purdue.edu)
 
 ---
 
