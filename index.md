@@ -5,14 +5,11 @@ layout: default
 
 <img class="profile-picture" src="me2.jpg">
 
-Hello my name is Sean Khomphengchan! I recently graduated from Purdue University with a degree in Aeronautical and Astronautical Engineering!
+Hello my name is Sean Khomphengchan! I recently graduated from Purdue University with a degree in Aeronautical and Astronautical Engineering! I am currently interested in the fields of GNC and Robotics for space applications. I am considering a master's some point in the future!
 Welcome to my site!
 
 ## Professional Interest
-Currently I am looking for opportunities to explore GNC or software oriented positions within the space sector
-where I can further refine my abilities as I have specialized in Astrodynamics and Controls. Academically,
-I am interested in exploring the use of robotics for space missions and other space related applications
-and thus I am considering pursuing my Master's at some point during my career.
+I am currently a GNC Software Engineer where I primarily work with the flight software team on integrating and testing GNC algorithms into the flight code along with doing simulation and modeling work in languages and tools such as Python, Rust, and STK. 
 
 
 ## Publications
@@ -20,9 +17,8 @@ and thus I am considering pursuing my Master's at some point during my career.
 1. None Yet!
 
 ## Teaching
-I have been serving as an Undergraduate Teaching assistant for the past 3 semesters.
-I have worked on the following courses:
-
+I used to act as a Teaching assistant Throughout my Sophomore and Junior Years.
+Here are some of the courses I helped out on:
 * ENGR 131: Transforming Ideas to Innovation I (Fall '21)
 * ENGR 132: Transforming Ideas to Innovation II (Spring '22)
 * ENGR 133: Transforming Ideas to Innovation, EPICS (Fall '22)
