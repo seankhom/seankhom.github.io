@@ -9,7 +9,7 @@ Hello my name is Sean Khomphengchan! I recently graduated from Purdue University
 Welcome to my site!
 
 ## Professional Interest
-I am currently a GNC Software Engineer where I primarily work with the flight software team on integrating and testing GNC algorithms into the flight code along with doing simulation and modeling work in languages and tools such as Python, Rust, and STK. 
+I am currently a Software Engineer, primarily doing spacecraft simulation and modeling work using languages and tools such as MATLAB/Simulink, Rust, and STK. 
 
 
 ## Publications
