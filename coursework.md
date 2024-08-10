@@ -1,5 +1,9 @@
 # Courses
 
+## Fall 2024
+- CS 237a -  Principles of Robot Autonomy I
+
+  
 ## Fall 2023
 - AAE 590 -  Spaceflight Operations
 - AAE 561  - Convex Optimization
