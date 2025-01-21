@@ -9,7 +9,8 @@ Hello my name is Sean Khomphengchan! I recently graduated from Purdue University
 Welcome to my site!
 
 ## Professional Interest
-I am currently a Software Engineer, primarily doing spacecraft simulation and modeling work using languages and tools such as MATLAB/Simulink, Rust, and STK. 
+I am a GNC Engineer at NASA Johnson Space Center, previously a Software Engineer at Airbus.
+I am interested in primarily doing spacecraft simulation and modeling work using languages and tools such as MATLAB/Simulink, Rust, and STK. 
 
 
 ## Publications
