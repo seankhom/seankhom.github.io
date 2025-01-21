@@ -1,5 +1,6 @@
 # Courses
-
+## Winter 2025
+- AA 279a - Space Mechanics
 ## Fall 2024
 - CS 237a -  Principles of Robot Autonomy I
 
