@@ -3,7 +3,7 @@ layout: default
 ---
 ## About Me
 
-<img class="profile-picture" src="me2.jpg">
+<img class="profile-picture" src="sean_khom_headshot.jpg">
 
 Hello my name is Sean Khomphengchan! I recently graduated from Purdue University with a degree in Aeronautical and Astronautical Engineering! I am currently interested in the fields of GNC and Robotics for space applications. I am considering a master's some point in the future!
 Welcome to my site!
