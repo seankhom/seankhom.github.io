@@ -37,20 +37,20 @@
         font-style: italic;
     }
     .profile-picture {
-        height: $image-size;
-        width: $image-size;
-        position: relative;
-        margin: -10px 0 0 15px;
-        float: right;
+        width: 150px;
+        height: 150px;
+        object-fit: cover;
+        object-position: center 35%;
         border-radius: 50%;
-        p & {
-            padding: 0;
-            margin: 0;
-        }
-        @media (max-width: $small-width) {
-            img {
-                margin-top: -5px;
-            }
+        float: right;
+        margin: 0 0 20px 25px;
+    
+        @media (max-width: 480px) {
+            width: 120px;
+            height: 120px;
+            float: none;
+            display: block;
+            margin: 0 auto 20px;
         }
     }
     img {
