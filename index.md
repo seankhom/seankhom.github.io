@@ -1,48 +1,47 @@
 ---
 layout: default
 ---
+
 ## About Me
 
-<img class="profile-picture" src="sean_khom_headshot.jpg">
+<img class="profile-picture" src="sean_khom_headshot.jpg" alt="Sean Khomphengchan">
 
-Hello my name is Sean Khomphengchan! I recently graduated from Purdue University with a degree in Aeronautical and Astronautical Engineering! I am currently interested in the fields of GNC and Robotics for space applications. I am considering a master's some point in the future!
-Welcome to my site!
+Hi, I am Sean! I am an Aerospace engineer currently living in Tokyo.
+I graduated from Purude Univeristy with a B.S in Aeronautical and Astronautical Engineering. Previously I worked on spacecraft GNC modeling, simulation, and flight software at NASA Johnson Space Center as a contractor and Airbus U.S Space and Defense.
 
-## Professional Interest
-I am a GNC Engineer at NASA Johnson Space Center, previously a Software Engineer at Airbus.
-I am interested in primarily doing spacecraft simulation and modeling work using languages and tools such as MATLAB/Simulink, Rust, and STK. 
+Welcome to my website!
 
+## Technical Interests
 
-## Publications
+My primary technical interests include:
 
-1. None Yet!
-
-## Teaching
-I used to act as a Teaching assistant Throughout my Sophomore and Junior Years.
-Here are some of the courses I helped out on:
-* ENGR 131: Transforming Ideas to Innovation I (Fall '21)
-* ENGR 132: Transforming Ideas to Innovation II (Spring '22)
-* ENGR 133: Transforming Ideas to Innovation, EPICS (Fall '22)
-* FYE Computer Lab (Spring '23)
+- **Guidance, Navigation, and Control:** Spacecraft dynamics, attitude control, trajectory optimization, and state estimation.
+- **Modeling and Simulation:** Orbital dynamics, numerical integration, Monte Carlo analysis, and software verification.
+- **Software Engineering:** C++, Python, MATLAB/Simulink, and scientific computing.
+- **Robotics and Autonomy:** Probabilistic estimation, optimization, and autonomous systems.
 
 ## Projects
 
-Year | Name | Description
------|-------|--------
-2023 |Multi-Agent Valorant Simulator| Use Multi-Agent modeling and simulation for use case of predicting outcomes within the tactical shooter Valorant
-2022 |GNSS Signal Processing | Semester Long project involving analysis of GNSS signal processing techniques for error correction
-2022 | ASTRA | Model Rocket that enables active controls utilizes Kalman Filtering
-2021 | Inventory Management Tool | Developed Tool for Elkhart Brass to manage inventory from different Facilities
-2020| Robotic Hand | Developed robotic hand that mirrored controller's hand movements and won Air Force Office of Research Award
+| Year | Project | Description |
+|------|---------|-------------|
+| 2026 | C++ Orbital Dynamics Simulator | Personal C++23 project exploring spacecraft dynamics, numerical integration, and simulation software architecture. |
+| 2026 | NRHO Transfer Optimization | Investigation of Earth-Moon CR3BP transfers under uncertainty using trajectory optimization, Kalman filtering, and Monte Carlo analysis. |
+| 2023 | Multi-Agent Valorant Simulator | Agent-based modeling and simulation to predict outcomes in the tactical shooter Valorant. |
 
-*psst for more info click on portfolio!*
+For additional information, visit my [Portfolio](/portfolio).
 
 ---
-## Personal Interest
+## Teaching Experience
 
-- Film and Television
-- Spider-Man
-- Reading
-- Food & Cooking
+During my undergraduate studies, I served as a teaching assistant for Purdue's First-Year Engineering program, supporting the following courses:
 
+- ENGR 131: Transforming Ideas to Innovation I (Fall 2021)
+- ENGR 132: Transforming Ideas to Innovation II (Spring 2022)
+- ENGR 133: Transforming Ideas to Innovation, EPICS (Fall 2022)
+- FYE Computer Lab (Spring 2023)
 
+## Beyond Engineering
+
+Outside of engineering, I enjoy video games, film and television, reading, cooking, and exploring new places. Spider-Man is my favorite super hero, look at my tie above!
+
+Since moving to Japan, I've also been spending time learning Japanese (still awful) and exploring Tokyo.
